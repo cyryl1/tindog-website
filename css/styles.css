@@ -16,7 +16,6 @@ h1{
     font-size: 3rem;
     line-height: 1.5;
     font-weight: 900;
-    margin-top: 10%;
 }
 
 .image{
@@ -30,7 +29,12 @@ h1{
 
 /* NAvigation Bar */
 
+.navbar{
+    padding-bottom: 4.5rem;
+}
+
 .navbar-brand{
     font-family: 'Ubuntu';
     font-size: 2.5rem;
+    font-weight: bold;
 }
