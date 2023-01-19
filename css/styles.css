@@ -23,3 +23,7 @@ h1{
     height: 40rem;
     transform: rotate(30deg);
 }
+
+.nav-item{
+    font-size: 1.2rem;
+}
