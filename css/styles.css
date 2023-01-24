@@ -23,6 +23,13 @@ h3{
     font-weight: 900;
 }
 
+h2{
+    font-family: "Montserrat-Bold";
+    font-size: 3rem;
+    line-height: 1.5;
+    font-weight: 900;
+}
+
 p{
     color: #8F8F8F;
 }
@@ -76,4 +83,18 @@ p{
 
 .icon:hover{
     color: #ff4c68;
+}
+
+/* Testimonial Section */
+#testimonials{
+    padding: 7% 15%;
+    text-align: center;
+    background-color: #ef8172;
+    color: #fff;
+}
+
+.testimonial-image{
+    width: 10%;
+    border-radius: 100%;
+    margin: 20px;
 }
