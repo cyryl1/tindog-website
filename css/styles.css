@@ -126,3 +126,7 @@ p{
 .pricing-comment{
     text-align: center;
 }
+
+.card{
+    width: 18rem;
+}
