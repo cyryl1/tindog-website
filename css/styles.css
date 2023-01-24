@@ -130,3 +130,7 @@ p{
 .card{
     width: 18rem;
 }
+
+.card-button{
+    width: 90%;
+}
