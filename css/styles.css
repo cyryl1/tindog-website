@@ -115,12 +115,12 @@ p{
 }
 
 /* Pricing Section */
-
+#pricing{
+    padding: 7% 15%;
+}
 
 .pricing-title{
     text-align: center;
-    font-family: "Montserrat-Bold";
-    font-weight: 900;
 }
 
 .pricing-comment{
