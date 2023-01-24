@@ -113,3 +113,12 @@ p{
     width: 15%;
     margin: 20px 20px 50px;
 }
+
+/* Pricing Section */
+.pricing-title{
+    text-align: center;
+}
+
+.pricing-comment{
+    text-align: center;
+}
