@@ -64,11 +64,15 @@ p{
 .image{
     width: 60%;
     transform: rotate(25deg);
+    position: absolute;
 }
 
 /* features Section */
 #features{
     padding: 7% 15%;
+    background-color: #fff;
+    position: relative;
+    z-index: 1;
 }
 
 .feature-box{
@@ -128,7 +132,8 @@ p{
 }
 
 .card{
-    width: 40%;
+    width: 100%;
+    margin-top: 10%;
 }
 
 .card-button{
