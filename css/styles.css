@@ -151,6 +151,15 @@ p{
 
 .cta-heading{
     font-family: "Montserrat Black";
+    font-size: 3.5rem;
+    line-height: 1.5;
+}
+
+/* Footer */
+
+#footer{
+    padding: 7% 15%;
+    text-align: center;
 }
 
 @media (max-width: 1020px) {
