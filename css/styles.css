@@ -68,6 +68,7 @@ p{
     right: 30%;
 }
 
+
 /* features Section */
 #features{
     padding: 7% 15%;
@@ -138,4 +139,27 @@ p{
 
 .card-button{
     width: 90%;
+}
+
+/* CTA section */
+#cta{
+    background-color: #ff4c6a;
+    color: #fff;
+    padding: 7% 15%;
+    text-align: center;
+}
+
+.cta-heading{
+    font-family: "Montserrat Black";
+}
+
+@media (max-width: 1020px) {
+    #title{
+        text-align: center;
+    }
+    
+    .image{
+        position: static;
+        transform: rotate(0);
+    }
 }
