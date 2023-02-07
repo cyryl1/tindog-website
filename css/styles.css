@@ -11,20 +11,15 @@ body{
     padding: 3% 15% 7%;
 }
 
-h1{
-    font-family:"Montserrat-Black";
-    font-size: 4rem;
-    line-height: 1.5;
-    font-weight: 900;
+h1, h2, h3, h4, h5, h6{
+    font-family: "Montserrat-Bold";
 }
 
 h3{
-    font-family: "Montserrat-Bold";
     font-weight: 900;
 }
 
 h2{
-    font-family: "Montserrat-Bold";
     font-size: 3rem;
     line-height: 1.5;
     font-weight: 900;
@@ -32,6 +27,14 @@ h2{
 
 p{
     color: #8F8F8F;
+}
+
+/* Headings */
+.big-heading{
+    font-family:"Montserrat-Black";
+    font-size: 4rem;
+    line-height: 1.5;
+    font-weight: 900;
 }
 
 /* NAvigation Bar */
