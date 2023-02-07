@@ -80,7 +80,6 @@ p{
 }
 
 .feature-box{
-    text-align: center;
     padding: 5%;
 }
 
@@ -95,7 +94,6 @@ p{
 
 /* Testimonial Section */
 #testimonials{
-    text-align: center;
     background-color: #ef8172;
     color: #fff;
 }
@@ -118,7 +116,6 @@ p{
 /* Press section */
 #press{
     background-color: #ef8172;
-    text-align: center;
     padding-bottom: 3%;
 }
 
@@ -133,7 +130,6 @@ p{
 }
 
 .pricing-title{
-    text-align: center;
 }
 
 .pricing-comment{
