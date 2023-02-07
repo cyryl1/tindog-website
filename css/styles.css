@@ -140,6 +140,11 @@ p{
     margin-top: 10%;
 }
 
+.price-text{
+    font-size: 3rem;
+    line-height: 1.5;
+}
+
 .card-button{
     width: 90%;
 }
