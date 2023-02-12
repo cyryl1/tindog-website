@@ -30,6 +30,17 @@ p{
     padding: 7% 15%;
 }
 
+/* section */
+
+.colored-section{
+    background-color: #ff4c68;
+    color: #fff;
+}
+
+.white-section{
+    background-color: #fff;
+}
+
 /* NAvigation Bar */
 
 .navbar{
@@ -57,14 +68,10 @@ p{
 }
 
 /* Title section */
-#title{
-    background-color: #ff4c68;
-    color: #fff;
-    text-align: left;
-}
 
 #title .container-fluid{
     padding: 3% 15% 7%;
+    text-align: left;
 }
 
 /* title image */
@@ -78,7 +85,6 @@ p{
 
 /* features Section */
 #features{
-    background-color: #fff;
     position: relative;
 }
 
@@ -102,7 +108,6 @@ p{
 /* Testimonial Section */
 #testimonials{
     background-color: #ef8172;
-    color: #fff;
 }
 
 .testimonial-image{
@@ -132,13 +137,6 @@ p{
 }
 
 /* Pricing Section */
-#pricing{
-
-}
-
-.pricing-title{
-}
-
 .pricing-comment{
     text-align: center;
 }
@@ -159,9 +157,8 @@ p{
 
 /* CTA section */
 #cta{
-    background-color: #ff4c6a;
-    color: #fff;
     text-align: center;
+    padding: 100px 15%;
 }
 
 .cta-heading{
