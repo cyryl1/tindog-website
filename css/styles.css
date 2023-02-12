@@ -181,6 +181,10 @@ p{
     #title{
         text-align: center;
     }
+
+    div.col-lg-6{
+        text-align: center;
+    }
     
     .image{
         position: static;
